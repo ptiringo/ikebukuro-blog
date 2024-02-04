@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# mise description="Serve the site locally."
+hugo serve
